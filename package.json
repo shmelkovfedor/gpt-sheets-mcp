@@ -1,0 +1,11 @@
+{
+  "name": "gpt-sheets-mcp",
+  "version": "1.0.0",
+  "description": "Google Sheets MCP server",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "googleapis": "^105.0.0",
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
